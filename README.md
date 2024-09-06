@@ -1,7 +1,7 @@
 ### Olá !! Sou a Rayline👩‍💻 
 **Graduanda em Análise e Desenvolvimento de Sistemas**
 
-💡 Apaixonada por pesquisa científica, com foco em redes ópticas e inovação tecnológica.
+💡 Apaixonada por pesquisa científica, com foco em redes ópticas.
 
 
 <div align="center">
