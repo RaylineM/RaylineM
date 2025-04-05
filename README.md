@@ -1,8 +1,8 @@
 ### Olá !! Sou a Rayline👩‍💻 
 
-💡 Apaixonada por pesquisa científica, com foco em redes ópticas.
-🎓 Formada em Análise e Desenvolvimento de Sistemas
-📚 Mestranda em Ciência da Computação
+💡 Apaixonada por pesquisa científica, com foco em redes ópticas.\n
+🎓 Formada em Análise e Desenvolvimento de Sistemas\n
+📚 Mestranda em Ciência da Computação\n
 💻 Apaixonada por tecnologia, pesquisa e desenvolvimento de soluções criativas
 
 
